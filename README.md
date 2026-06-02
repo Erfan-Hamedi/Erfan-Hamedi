@@ -49,9 +49,7 @@ As a Software Engineering student, I'm continuously learning and expanding my sk
 
 ## 📊 GitHub Stats
 
-![Erfan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Erfan-Hamedi\&show_icons=true\&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Erfan-Hamedi\&layout=compact\&theme=tokyonight)
 
 ---
 
@@ -61,7 +59,7 @@ As a Software Engineering student, I'm continuously learning and expanding my sk
 
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge\&logo=telegram\&logoColor=white)](https://t.me/erfan_hhhh)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/erfan-hamedi)
+[![LinkedIn](https://www.linkedin.com/in/erfan-hamedii-/)](https://www.linkedin.com/in/erfan-hamedi)
 
 ---
 
