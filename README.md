@@ -59,7 +59,7 @@ As a Software Engineering student, I'm continuously learning and expanding my sk
 
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge\&logo=telegram\&logoColor=white)](https://t.me/erfan_hhhh)
 
-[![LinkedIn](https://www.linkedin.com/in/erfan-hamedii-/)](https://www.linkedin.com/in/erfan-hamedi)
+[![LinkedIn](https://www.linkedin.com/in/erfan-hamedii-/)](www.linkedin.com/in/erfan-hamedii-)
 
 ---
 
