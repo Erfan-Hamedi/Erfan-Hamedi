@@ -1,4 +1,6 @@
-## 👋 Hi, I'm Erfan Hamedi
+# 👋 Hi, I'm Erfan Hamedi
+
+### Frontend Developer
 
 Frontend Developer focused on building modern, responsive, and user-friendly web experiences.
 
@@ -8,42 +10,59 @@ Frontend Developer focused on building modern, responsive, and user-friendly web
 * 🚀 Interested in Freelance & Remote Opportunities
 * ⚡ Passionate about Clean Code, Performance, and Great User Experience
 
-### About Me
+---
 
-I'm a Frontend Developer who enjoys turning ideas into modern and responsive web applications. My primary stack includes HTML, CSS, JavaScript, and Tailwind CSS, alongside Git and GitHub for version control.
+## 🚀 About Me
+
+I'm a Frontend Developer who enjoys turning ideas into modern and responsive web applications.
+
+My primary stack includes **HTML, CSS, JavaScript, and Tailwind CSS**, alongside **Git** and **GitHub** for version control.
 
 As a Software Engineering student, I'm continuously learning and expanding my skills through real-world projects and hands-on development. I enjoy creating intuitive user interfaces, writing maintainable code, and improving the overall user experience of web products.
 
-### Current Focus
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+
+---
+
+## 🎯 Current Focus
 
 * Building real-world frontend projects
 * Improving JavaScript skills
 * Learning modern development workflows
 * Growing as a professional developer
 
-> "Always learning, always building."
+---
 
+## 📊 GitHub Stats
 
-## 🌐 Socials:
-[![Telegram](https://img.shields.io/badge/telegram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://t.me/erfan_hhhh)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/erfan-hamedi-)
+![Erfan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Erfan-Hamedi\&show_icons=true\&theme=tokyonight)
 
-
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AmirHosseinShahriyari&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=AmirHosseinShahriyari&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AmirHosseinShahriyari&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AmirHosseinShahriyari&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Erfan-Hamedi\&layout=compact\&theme=tokyonight)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AmirHosseinShahriyari&icon=7&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🌐 Connect With Me
 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Erfan-Hamedi)
+
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge\&logo=telegram\&logoColor=white)](https://t.me/erfan_hhhh)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/erfan-hamedi)
+
+---
+
+> "Always learning, always building."
